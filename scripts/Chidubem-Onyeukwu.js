@@ -7,5 +7,5 @@ function message() {
  
  return message;
 
-}
+};
 console.log(message());
